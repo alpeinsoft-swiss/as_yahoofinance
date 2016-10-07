@@ -1,0 +1,19 @@
+
+plugin.tx_asyahoofinance {
+	view {
+		# cat=plugin.tx_asyahoofinance/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:as_yahoofinance/Resources/Private/Templates/
+		# cat=plugin.tx_asyahoofinance/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:as_yahoofinance/Resources/Private/Partials/
+		# cat=plugin.tx_asyahoofinance/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:as_yahoofinance/Resources/Private/Layouts/
+	}
+	settings{
+		# cat=plugin.tx_asyahoofinance//a; type=string; label=Default width
+		widthDef = 560
+		# cat=plugin.tx_asyahoofinance//a; type=string; label=Default height
+		heightDef = 310
+	}
+}
+
+

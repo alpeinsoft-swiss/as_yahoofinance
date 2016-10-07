@@ -1,0 +1,29 @@
+<f:layout name="Default" />
+<f:section name="main">
+	<script class="finance-data">
+		if (!as_settings) var as_settings = [];
+		as_settings['{uid}'] = <f:format.htmlspecialchars keepQuotes='1' >{settings}</f:format.htmlspecialchars>;
+		as_settings['{uid}']['uid'] = {uid};
+	</script>
+
+
+	<f:if condition="{allSet.style}=='nochart'">
+		<f:then>
+			<div class="as-yahoo-finance noChartData">
+				<table id="noChart{uid}" class="noChartData{uid}">
+					<tr>
+						<th>Name</th>
+						<th>Kurs</th>
+						<th>Änderung</th>
+					</tr>
+				</table>
+			</div>
+		</f:then>
+		<f:else>
+			<div class="as-yahoo-finance" style="max-width: {allSet.width}px; height: {allSet.height}px">
+				<div id="chartdiv{uid}" class="chartdiv"></div>
+			</div>
+		</f:else>
+	</f:if>
+</f:section>
+

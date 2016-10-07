@@ -1,0 +1,49 @@
+plugin.tx_asyahoofinance {
+	view {		
+		templateRootPath = {$plugin.tx_asyahoofinance.view.templateRootPath}
+		partialRootPath = {$plugin.tx_asyahoofinance.view.partialRootPath}
+		layoutRootPath = {$plugin.tx_asyahoofinance.view.layoutRootPath}
+	}
+	persistence {
+		# storagePid = {$plugin.tx_asyahoofinance.persistence.storagePid}
+	}
+	features {
+		# uncomment the following line to enable the new Property Mapper.
+		# rewrittenPropertyMapper = 1
+	}
+	settings{
+		widthDef = {$plugin.tx_asyahoofinance.settings.widthDef}
+		heightDef = {$plugin.tx_asyahoofinance.settings.heightDef}
+	}
+}
+
+page{
+	includeCSS {
+	 	yahoofinance_custom1_css = typo3conf/ext/as_yahoofinance/Resources/Public/Css/custom.css
+	 	}
+
+	includeJSFooterlibs{
+		yahoofinance_custom1_js = typo3conf/ext/as_yahoofinance/Resources/Public/JavaScript/custom.js
+
+		yahoofinance_z1amcharts_js = typo3conf/ext/as_yahoofinance/Resources/Public/JavaScript/amcharts/amcharts.js
+		yahoofinance_z2serial_js = typo3conf/ext/as_yahoofinance/Resources/Public/JavaScript/amcharts/serial.js
+		yahoofinance_z3patterns_js = typo3conf/ext/as_yahoofinance/Resources/Public/JavaScript/amcharts/themes/patterns.js
+		yahoofinance_z3light_js = typo3conf/ext/as_yahoofinance/Resources/Public/JavaScript/amcharts/themes/light.js
+		yahoofinance_z3dark_js = typo3conf/ext/as_yahoofinance/Resources/Public/JavaScript/amcharts/themes/dark.js
+		yahoofinance_z3chalk_js = typo3conf/ext/as_yahoofinance/Resources/Public/JavaScript/amcharts/themes/chalk.js
+	}
+}
+
+plugin.tx_asyahoofinance._CSS_DEFAULT_STYLE (
+
+	.chartdiv {
+    	width		: 100%;
+    	height		: 100%;
+    	font-size	: 11px;
+    }
+    .amcharts-chart-div a {
+            display: none !important;
+    }
+
+)
+

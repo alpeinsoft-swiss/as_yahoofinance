@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <type>database</type>
+        <description>Language labels for database tables/fields belonging to extension 'as_yahoofinance'</description>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="tt_content.as_yahoofinance.sheet_general">General</label>
+            <label index="tt_content.as_yahoofinance.style">Style</label>
+            <label index="tt_content.as_yahoofinance.style.I.0">Chart</label>
+            <label index="tt_content.as_yahoofinance.style.I.1">No Chart</label>
+            <label index="tt_content.as_yahoofinance.name">Name</label>
+            <label index="tt_content.as_yahoofinance.days">Days</label>
+            <label index="tt_content.as_yahoofinance.width">Width</label>
+            <label index="tt_content.as_yahoofinance.height">Height</label>
+            <label index="tt_content.as_yahoofinance.chart_theme">Chart Theme</label>
+            <label index="tt_content.as_yahoofinance.se_custom">Custom</label>
+            <label index="tt_content.as_yahoofinance.se_light">Light</label>
+            <label index="tt_content.as_yahoofinance.se_patterns">Patterns</label>
+            <label index="tt_content.as_yahoofinance.se_dark">Dark (um einen dunklen Hintergrund)</label>
+            <label index="tt_content.as_yahoofinance.se_chalk">Chalk (um einen dunklen Hintergrund)</label>
+            <label index="tt_content.as_yahoofinance.position_ordinate">Position Ordinate</label>
+            <label index="tt_content.as_yahoofinance.po_left">Left</label>
+            <label index="tt_content.as_yahoofinance.po_right">Right</label>
+            <label index="tt_content.as_yahoofinance.show_scrollbar">Show Scrollbar</label>
+            <label index="tt_content.as_yahoofinance.font_size">Font Size</label>
+            <label index="tt_content.as_yahoofinance.fill_color">Fill Color</label>
+            <label index="tt_content.as_yahoofinance.scale_font_color">Scale Font Color</label>
+            <label index="tt_content.as_yahoofinance.scrollbar_selected_background">Scrollbar Selected Background</label>
+            <label index="tt_content.as_yahoofinance.scrollbar_selected_background">Scrollbar Selected Background</label>
+            <label index="tt_content.as_yahoofinance.cursor_color">Cursor Color</label>
+            <label index="tt_content.as_yahoofinance.show_tooltips">Show Tooltips</label>
+            <label index="tt_content.as_yahoofinance.names">Names</label>
+
+
+
+            <label index="tt_content.pi_flexform.from_ts">From Typoscript</label>
+            <label index="tt_content.pi_flexform.no">No</label>
+            <label index="tt_content.pi_flexform.yes">Yes</label>
+            <label index="browserlink_tab">Multicontent</label>
+        </languageKey>
+    </data>
+    <orig_hash type="array">
+    </orig_hash>
+    <orig_text type="array">
+    </orig_text>
+</T3locallang>

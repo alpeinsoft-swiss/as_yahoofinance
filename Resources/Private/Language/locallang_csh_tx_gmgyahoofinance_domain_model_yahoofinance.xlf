@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="de" datatype="plaintext" original="messages" date="2015-10-16T16:49:14Z" product-name="asyahoofinance">
+		<header/>
+		<body>
+		<trans-unit id="tt_content.as_yahoofinance.name">
+                    	<source>Name</source>
+                    </trans-unit>
+		</body>
+	</file>
+</xliff>

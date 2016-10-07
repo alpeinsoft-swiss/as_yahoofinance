@@ -1,0 +1,34 @@
+﻿.. |img-ts|      image:: ../Images/ts_settings.jpg
+   :height: 230
+   :width: 726
+.. :align: left
+.. :border: 1
+.. :name: Grafik8
+
+.. |img-plugin|     image:: ../Images/plugin_element.jpg
+   :height: 195
+   :width: 748
+.. :align: left
+.. :border: 1
+.. :name: Grafik14
+
+.. |img-plugin-settings1|     image:: ../Images/extension_settings1.jpg
+   :height: 810
+   :width: 500
+.. :align: left
+.. :border: 1
+.. :name: Grafik15
+
+.. |img-plugin-settings2|     image:: ../Images/extension_settings2.jpg
+   :height: 755
+   :width: 500
+.. :align: right
+.. :border: 1
+.. :name: Grafik15
+
+.. |img-finish|     image:: ../Images/frontend.png
+   :height: 722
+   :width: 946
+.. :align: left
+.. :border: 1
+.. :name: Grafik16

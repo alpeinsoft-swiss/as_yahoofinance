@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2015-10-16T16:49:14Z" product-name="asyahoofinance">
+		<header>
+			<generator>LFEditor</generator>
+		</header>
+		<body>
+		 <trans-unit id="plugin_label">
+                <source>AS Yahoo Finance</source>
+            </trans-unit>
+            <trans-unit id="plugin_value">
+                <source>Here you can edit the AS Yahoo Finance</source>
+            </trans-unit>
+			<trans-unit id="tx_asyahoofinance_domain_model_yahoofinance">
+				<source>Yahoo Finance</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.as_yahoofinance.sheet_general" approved="yes">
+                <source>General</source>
+                <target>Allgemein</target>
+            </trans-unit>
+			<trans-unit id="tt_content.as_yahoofinance.style" approved="yes">
+                <source>View</source>
+                <target>Darstellung</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.style.I.0" approved="yes">
+                <source>Chart</source>
+                <target>Diagramm</target>
+            </trans-unit>
+             <trans-unit id="tt_content.as_yahoofinance.style.I.1" approved="yes">
+                <source>Data table</source>
+                <target>Tabellenansicht</target>
+            </trans-unit>
+			<trans-unit id="tt_content.as_yahoofinance.name" approved="yes">
+            	<source>Stock exchange symbol (e.g. ^GDAXI)</source>
+            	<target>Börsenkürzel (z.B. ^GDAXI)</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.days" approved="yes">
+                <source>Timespan (in days)</source>
+                <target>Zeitspanne (in Tagen)</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.width" approved="yes">
+                <source>Width</source>
+                <target>Breite</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.height" approved="yes">
+                <source>Height</source>
+                <target>Höhe</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.chart_theme" approved="yes">
+                <source>Chart Theme</source>
+                <target>Diagrammdarstellung</target>
+            </trans-unit>
+             <trans-unit id="tt_content.as_yahoofinance.se_custom" approved="yes">
+                <source>Custom</source>
+                <target>Benutzerdefiniert</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_light" approved="yes">
+                <source>Light</source>
+                <target>Light</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_patterns" approved="yes">
+                <source>Patterns</source>
+                <target>Muster</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_dark" approved="yes">
+                <source>Dark (for black background)</source>
+                <target>Dark (für einen dunklen Hintergrund)</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_chalk" approved="yes">
+                <source>Sketch (for black background)</source>
+                <target>Skizze (für einen dunklen Hintergrund)</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.position_ordinate" approved="yes">
+                <source>Ordinate position</source>
+                <target>Position der Ordinate</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.po_left" approved="yes">
+                <source>Left</source>
+                <target>Links</target>
+            </trans-unit>
+
+             <trans-unit id="tt_content.as_yahoofinance.po_right" approved="yes">
+                <source>Right</source>
+                <target>Rechts</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.show_scrollbar" approved="yes">
+                <source>Show Scrollbar</source>
+                <target>Zeitspannenregler anzeigen</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.font_size" approved="yes">
+                <source>Font Size</source>
+                <target>Schriftgröße</target>
+            </trans-unit>
+             <trans-unit id="tt_content.as_yahoofinance.fill_color" approved="yes">
+                <source>Fill Color</source>
+                <target>Diagrammfarbe</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.scale_font_color" approved="yes">
+                <source>Scale Font Color</source>
+                <target>Schriftfarbe</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.scrollbar_selected_background" approved="yes">
+                <source>Scrollbar Selected Background</source>
+                <target>Zeitspannenreglerfarbe</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.cursor_color" approved="yes">
+                <source>Cursor Color</source>
+                <target>Cursorfarbe</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.show_tooltips" approved="yes">
+                <source>Show Tooltips</source>
+                <target>Tooltips anzeigen</target>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.names" approved="yes">
+                <source>Stock exchange symbols (separated by "," )</source>
+                <target>Börsenkürzel (Mehrfachauswahl getrennt durch ",“)</target>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

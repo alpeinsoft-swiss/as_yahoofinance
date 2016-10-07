@@ -1,0 +1,13 @@
+﻿.. |settings1|      image:: ../Images/extension_settings1.jpg
+   :height: 810
+   :width: 500
+.. :align: left
+.. :border: 1
+.. :name: Grafik1
+
+.. |settings2|      image:: ../Images/extension_settings2.jpg
+   :height: 755
+   :width: 500
+.. :align: left
+.. :border: 1
+.. :name: Grafik1

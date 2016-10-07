@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2015-10-16T16:49:14Z" product-name="asyahoofinance">
+		<header>
+        			<generator>LFEditor</generator>
+        </header>
+		<body>
+		    <trans-unit id="plugin_label">
+                <source>AS Yahoo Finance</source>
+            </trans-unit>
+            <trans-unit id="plugin_value">
+                <source>Here you can edit the AS Yahoo Finance</source>
+            </trans-unit>
+			<trans-unit id="tx_asyahoofinance_domain_model_yahoofinance">
+				<source>Yahoo Finance</source>
+			</trans-unit>
+
+			<trans-unit id="tt_content.as_yahoofinance.sheet_general">
+                <source>General</source>
+            </trans-unit>
+			<trans-unit id="tt_content.as_yahoofinance.style">
+                <source>View</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.style.I.0">
+                <source>Chart</source>
+            </trans-unit>
+             <trans-unit id="tt_content.as_yahoofinance.style.I.1">
+                <source>Data table</source>
+            </trans-unit>
+			<trans-unit id="tt_content.as_yahoofinance.name">
+            	<source>Stock exchange symbol (e.g. ^GDAXI)</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.days">
+                <source>Timespan (in days)</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.width">
+                <source>Width</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.height">
+                <source>Height</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.chart_theme">
+                <source>Chart Theme</source>
+            </trans-unit>
+             <trans-unit id="tt_content.as_yahoofinance.se_custom">
+                <source>Custom</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_light">
+                <source>Light</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_patterns">
+                <source>Patterns</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_dark">
+                <source>Dark (for black background)</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.se_chalk">
+                <source>Sketch (for black background)</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.position_ordinate">
+                <source>Ordinate position</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.po_left">
+                <source>Left</source>
+            </trans-unit>
+             <trans-unit id="tt_content.as_yahoofinance.po_right">
+                <source>Right</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.show_scrollbar">
+                <source>Show Scrollbar</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.font_size">
+                <source>Font Size</source>
+            </trans-unit>
+             <trans-unit id="tt_content.as_yahoofinance.fill_color">
+                <source>Fill Color</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.scale_font_color">
+                <source>Scale Font Color</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.scrollbar_selected_background">
+                <source>Scrollbar Selected Background</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.cursor_color">
+                <source>Cursor Color</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.show_tooltips">
+                <source>Show Tooltips</source>
+            </trans-unit>
+            <trans-unit id="tt_content.as_yahoofinance.names">
+                <source>Stock exchange symbols (separated by "," )</source>
+            </trans-unit>
+
+		</body>
+	</file>
+</xliff>
